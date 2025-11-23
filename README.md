@@ -6,17 +6,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%"/>
 </div>
 
-### 👨‍💻 Sobre mí
+### Sobre mí
 
 Soy un desarrollador enfocado en la creación de soluciones integrales, desde la **arquitectura de bases de datos** hasta el despliegue en producción. Me especializo en construir sistemas de gestión complejos y aplicaciones móviles útiles.
 
-- 🔭 Actualmente trabajando en: **Ressly (Sistema de Gestión Residencial)**.
-- 🌱 Aprendiendo constantemente sobre: **Protocolos de Red (DNS, UDP), Migración de BD y Android Nativo**.
-- ⚡ Dato curioso: Me gusta resolver ecuaciones lineales con código (FluxSolver) y automatizar cosas en el mundo real (AquaControl).
+- Actualmente trabajando en: **Ressly (Sistema de Gestión Residencial)**.
+- Aprendiendo constantemente sobre: **Protocolos de Red (DNS, UDP), Migración de BD y Android Nativo**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -36,17 +35,17 @@ Soy un desarrollador enfocado en la creación de soluciones integrales, desde la
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Tech |
 | :--- | :--- | :--- |
-| 🏢 **Ressly** | **Sistema Integral de Gestión Residencial.** <br> Dashboard administrativo, API robusta y aplicaciones móviles para el control de accesos y administración. | `React` `Node.js` `SQL` |
-| 📐 **FluxSolver** | **Herramienta Matemática.** <br> Software especializado para la resolución de ecuaciones lineales complejas. | `Algorithms` `Logic` |
-| 💧 **AquaControl** | **Automatización IoT.** <br> Sistema para la automatización y monitoreo de tinacos y flujo de agua. | `Java` `IoT` |
+| **Ressly** | **Sistema Integral de Gestión Residencial.** <br> Dashboard administrativo, API robusta y aplicaciones móviles para el control de accesos y administración. | `React` `Node.js` `SQL` |
+| **FluxSolver** | **Herramienta Matemática.** <br> Software especializado para la resolución de ecuaciones lineales complejas. | `Algorithms` `Logic` |
+| **AquaControl** | **Automatización IoT.** <br> Sistema para la automatización y monitoreo de tinacos y flujo de agua. | `Java` `IoT` |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/JCarlos-GM">

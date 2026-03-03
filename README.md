@@ -42,6 +42,7 @@ Soy un desarrollador enfocado en la creación de soluciones integrales, desde la
 | **Ressly** | **Sistema Integral de Gestión Residencial.** <br> Dashboard administrativo, API robusta y aplicaciones móviles para el control de accesos y administración. | `React` `Node.js` `SQL` |
 | **FluxSolver** | **Herramienta Matemática.** <br> Software especializado para la resolución de ecuaciones lineales complejas. | `Algorithms` `Logic` |
 | **AquaControl** | **Automatización IoT.** <br> Sistema para la automatización y monitoreo de tinacos y flujo de agua. | `Java` `IoT` |
+| **NexAquA** | **PROXIMAMENTE.** <br> Nico y la China. | |
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Carlos%20García&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect&descAlignY=54&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan Carlos%20Govea Magaña&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Software%20Architect&descAlignY=54&descSize=16" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=500&height=50&lines=Construyendo+Ressly+%F0%9F%8F%97%EF%B8%8F;Arquitectura+de+Software+%26+Redes+%F0%9F%94%97;Full+Stack+%7C+Mobile+%7C+IoT+%F0%9F%9A%80;Del+dise%C3%B1o+a+producci%C3%B3n+%E2%9C%A8" alt="Typing SVG" />

@@ -20,11 +20,12 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 ```typescript
 const juanCarlos = {
   rol:        "Full Stack Developer & Software Architect",
+  estudios:   "Ing. en Sistemas Computacionales — TecNM La Piedad",
   ubicacion:  "México 🇲🇽",
   proyecto:   "Ressly — Sistema Integral de Gestión Residencial",
   enfoque:    ["Backend robusto", "Móvil nativo", "Infraestructura en producción"],
@@ -37,7 +38,7 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -71,12 +72,12 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏗️ Ressly</h3>
+      <h3>Ressly</h3>
       <p><strong>Sistema Integral de Gestión Residencial</strong></p>
       <p>Plataforma completa para la administración de condominios y fraccionamientos. Incluye dashboard administrativo, API robusta con autenticación, y aplicaciones móviles nativas para control de accesos, pagos y comunicación interna.</p>
       <p>
@@ -88,7 +89,7 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
       <a href="https://ressly.com.mx">🌐 ressly.com.mx</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧮 FluxSolver</h3>
+      <h3>FluxSolver</h3>
       <p><strong>Motor de Resolución Matemática</strong></p>
       <p>Software especializado para la resolución de sistemas de ecuaciones lineales complejas. Implementa algoritmos de eliminación gaussiana, factorización LU y análisis de matrices con visualización de pasos intermedios.</p>
       <p>
@@ -99,7 +100,17 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💧 AquaControl</h3>
+      <h3>PseudoHub</h3>
+      <p><strong>Generación y Validación de Números Pseudoaleatorios</strong></p>
+      <p>Herramienta web desarrollada para la materia de Simulación (TecNM La Piedad). Implementa distintos métodos de generación de números pseudoaleatorios y sus pruebas estadísticas de validación.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+        <img src="https://img.shields.io/badge/Vercel-20232A?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://pseudo-hub.vercel.app/">🌐 pseudo-hub.vercel.app</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>AquaControl</h3>
       <p><strong>Automatización IoT para Gestión de Agua</strong></p>
       <p>Sistema embebido para la automatización, monitoreo y control remoto de tinacos y flujo de agua. Incluye sensores de nivel, control de bombas, alertas en tiempo real y registro histórico de consumo.</p>
       <p>
@@ -108,8 +119,10 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
         <img src="https://img.shields.io/badge/Android-20232A?style=flat-square&logo=android&logoColor=3DDC84"/>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🌊 NexAquΔ</h3>
+      <h3>NexAquΔ</h3>
       <p><strong>Próximamente — En Desarrollo Activo</strong></p>
       <p>Proyecto en fase de diseño. Arquitectura definida, desarrollo iniciando pronto.</p>
       <br/>
@@ -121,12 +134,13 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
       </p>
       <img src="https://img.shields.io/badge/Status-En%20Desarrollo-yellow?style=flat-square"/>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -141,12 +155,15 @@ Desarrollador enfocado en crear soluciones **de principio a fin**: desde la arqu
 
 ---
 
-## 🌐 Contacto
+## Contacto
 
 <div align="center">
 
 <a href="https://ressly.com.mx" target="_blank">
   <img src="https://img.shields.io/badge/Ressly-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Ressly"/>
+</a>
+<a href="https://pseudo-hub.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PseudoHub-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="PseudoHub"/>
 </a>
 <a href="https://github.com/JCarlos-GM" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

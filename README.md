@@ -1,61 +1,177 @@
-### Juan Carlos Govea Magaña
+<div align="center">
 
-Ing. en Sistemas Computacionales — TecNM La Piedad, Mich.  
-Construyo sistemas completos: desde el firmware hasta el dashboard, pasando por la API y la app móvil.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Carlos%20Govea&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Software%20Architect&descAlignY=54&descSize=15" width="100%"/>
 
-Actualmente trabajando en **NexAquA** — un sistema IoT de monitoreo hídrico para el sector agroindustrial mexicano, desarrollado como proyecto de innovación tecnológica para InnovaTecNM.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%F0%9F%92%A7+%E2%80%94+IoT+H%C3%ADdrico;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA+%F0%9F%9A%80;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue+%E2%9C%A8" alt="Typing SVG"/>
 
----
+<br/>
 
-**Lo que hago bien**
+<a href="https://github.com/JCarlos-GM">
+  <img src="https://komarev.com/ghpvc/?username=JCarlos-GM&style=flat-square&color=58A6FF&label=Visitas+al+perfil"/>
+</a>
+<a href="https://nexaqua.com.mx">
+  <img src="https://img.shields.io/badge/💧_nexaqua.com.mx-000?style=flat-square&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/InnovaTecNM-Folio_66691--17-58A6FF?style=flat-square"/>
 
-- Diseñar arquitecturas que escalan sin volverse inmantenibles
-- Conectar hardware con software de forma que tenga sentido
-- Llevar proyectos de idea a producción, completos
-
----
-
-**Proyectos**
-
-**[NexAquA](https://nexaqua.com.mx)** — Sistema IoT de monitoreo y defensa hídrica activa  
-Ecosistema completo: firmware ESP32 en C++, API Node.js, dashboard web React, app Android nativa. Monitorea calidad del agua en tiempo real y cierra válvulas de forma autónoma ante anomalías en menos de 250ms. Desplegado en producción para el sector agroindustrial mexicano. `ESP32` `React` `Node.js` `Android` `MQTT` `PostgreSQL`
-
-**[Ressly](https://ressly.com.mx)** — Sistema de gestión residencial  
-Plataforma para administración de condominios. Dashboard, API con autenticación y apps móviles nativas para control de accesos y pagos. `React` `Node.js` `Android` `PostgreSQL`
-
-**[PseudoHub](https://pseudo-hub.vercel.app)** — Generación de números pseudoaleatorios  
-Herramienta web que implementa distintos métodos de generación y sus pruebas estadísticas de validación. Proyecto académico, TecNM La Piedad. `JavaScript`
-
-**FluxSolver** — Motor de resolución de sistemas lineales  
-Implementación de eliminación gaussiana, factorización LU y análisis de matrices con visualización de pasos. `Java`
+</div>
 
 ---
 
-**Stack**
+## Sobre mí
 
-```
-Lenguajes   TypeScript · JavaScript · Java · C++ (Arduino)
-Frontend    React · Tailwind CSS · Framer Motion
-Backend     Node.js · Express · REST APIs
-Móvil       Android (Java) · Paho MQTT · Firebase
-IoT         ESP32 · FreeRTOS · MQTT/TLS · HiveMQ
-Datos       PostgreSQL · Supabase · Cloudinary
-Infra       Vercel · Render · GitHub
-Diseño      Blender · Autodesk Fusion · Figma
+```typescript
+const juanCarlos = {
+  rol:           "Full Stack Developer & Software Architect",
+  estudios:      "Ing. Sistemas Computacionales — TecNM La Piedad, Mich.",
+  ubicacion:     "México 🇲🇽",
+  enfoque:       ["Firmware IoT", "Backend robusto", "Mobile nativo", "Infra en producción"],
+  proyectoActual: {
+    nombre: "NexAquA",
+    descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM",
+    url: "nexaqua.com.mx",
+    estado: "🟢 En producción",
+    lineas: "+55,000 líneas de código",
+  },
+  aprendiendo:   ["MQTT/TLS", "IA predictiva", "Android nativo avanzado"],
+  filosofia:     "Del circuito a la pantalla, sin capas sueltas 🚀"
+};
 ```
 
----
-
-**Contacto**
-
-jgoveamagana@gmail.com · [github.com/JCarlos-GM](https://github.com/JCarlos-GM) · [instagram.com/jcarlosgm2](https://instagram.com/jcarlosgm2)
+Construyo sistemas completos — desde el hardware y el firmware hasta el dashboard web y la app móvil. Me apasiona resolver problemas reales con tecnología que funciona en producción, no solo en demos.
 
 ---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JCarlos-GM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58A6FF&text_color=8b949e&ring_color=58A6FF&hide_title=true" height="130"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCarlos-GM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&hide_title=true" height="130"/>
+**Frontend & Mobile**
 
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+**Backend & Datos**
+
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+
+**IoT & Embebido**
+
+<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
+<img src="https://img.shields.io/badge/Arduino_C++-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/FreeRTOS-0d1117?style=for-the-badge&logo=freertos&logoColor=white"/>
+
+**Infraestructura & Herramientas**
+
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D"/>
+<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC"/>
+
+</div>
+
+---
+
+## Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 NexAquA</h3>
+      <p><strong>Sistema IoT de Monitoreo Hídrico — InnovaTecNM Folio 66691-17</strong></p>
+      <p>Ecosistema completo para MiPyMEs agroindustriales: firmware ESP32 con <strong>Defensa Activa</strong> (cierre de válvulas en &lt;250ms), dashboard web SaaS con predicción IA, API REST en producción y app Android nativa. +55,000 líneas de código en 4 repositorios.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/ESP32-20232A?style=flat-square&logo=espressif&logoColor=E7352C"/>
+        <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=3C873A"/>
+        <img src="https://img.shields.io/badge/Android-20232A?style=flat-square&logo=android&logoColor=3DDC84"/>
+        <img src="https://img.shields.io/badge/MQTT-20232A?style=flat-square&logo=mqtt&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/🟢_Estado-Producción-1a7f37?style=flat-square"/>
+      &nbsp;&nbsp;
+      <a href="https://nexaqua.com.mx"><strong>nexaqua.com.mx →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Ressly</h3>
+      <p><strong>Sistema Integral de Gestión Residencial</strong></p>
+      <p>Plataforma completa para condominios y fraccionamientos. Dashboard administrativo, API con autenticación por roles y apps móviles nativas para control de accesos, pagos y comunicación interna.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=3C873A"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+        <img src="https://img.shields.io/badge/Android-20232A?style=flat-square&logo=android&logoColor=3DDC84"/>
+      </p>
+      <a href="https://ressly.com.mx"><strong>ressly.com.mx →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 PseudoHub</h3>
+      <p><strong>Generación y Validación de Números Pseudoaleatorios</strong></p>
+      <p>Herramienta web para la materia de Simulación (TecNM La Piedad). Implementa métodos de cuadrados medios, congruencial lineal y más, con pruebas estadísticas de validación integradas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+        <img src="https://img.shields.io/badge/Vercel-20232A?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://pseudo-hub.vercel.app/"><strong>pseudo-hub.vercel.app →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ FluxSolver</h3>
+      <p><strong>Motor de Resolución de Sistemas Lineales</strong></p>
+      <p>Software para resolución de sistemas de ecuaciones lineales complejas. Implementa eliminación gaussiana, factorización LU y análisis de matrices con visualización de pasos intermedios.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Estadísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JCarlos-GM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCarlos-GM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JCarlos-GM&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
+
+</div>
+
+---
+
+## Contacto
+
+<div align="center">
+
+<a href="https://nexaqua.com.mx" target="_blank">
+  <img src="https://img.shields.io/badge/💧_NexAquA-000000?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://ressly.com.mx" target="_blank">
+  <img src="https://img.shields.io/badge/🏢_Ressly-000000?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="mailto:jgoveamagana@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://instagram.com/jcarlosgm2" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+<a href="https://github.com/JCarlos-GM" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>

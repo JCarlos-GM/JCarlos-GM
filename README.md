@@ -113,7 +113,7 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 PseudoHub</h3>
+      <h3> PseudoHub</h3>
       <p><strong>Generación y Validación de Números Pseudoaleatorios</strong></p>
       <p>Herramienta web para la materia de Simulación (TecNM La Piedad). Implementa métodos de cuadrados medios, congruencial lineal y más, con pruebas estadísticas de validación integradas.</p>
       <p>

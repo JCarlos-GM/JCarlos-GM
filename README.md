@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Carlos%20Govea&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Software%20Architect&descAlignY=54&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Carlos%20Govea%20Magaña&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Software%20Architect&descAlignY=54&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%F0%9F%92%A7+%E2%80%94+IoT+H%C3%ADdrico;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA+%F0%9F%9A%80;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue+%E2%9C%A8" alt="Typing SVG"/>
 

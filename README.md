@@ -12,7 +12,7 @@
 <a href="https://nexaqua.com.mx">
   <img src="https://img.shields.io/badge/💧_nexaqua.com.mx-000?style=flat-square&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/InnovaTecNM-Folio_66691--17-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/InnovaTecNM-🏆_Etapa_Regional-58A6FF?style=flat-square"/>
 
 </div>
 
@@ -28,12 +28,12 @@ const juanCarlos = {
   enfoque:       ["Firmware IoT", "Backend robusto", "Mobile nativo", "Infra en producción"],
   proyectoActual: {
     nombre: "NexAquA",
-    descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM",
+    descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM (etapa regional)",
     url: "nexaqua.com.mx",
     estado: "🟢 En producción",
-    lineas: "+55,000 líneas de código",
+    lineas: "+130,000 líneas de código",
   },
-  aprendiendo:   ["MQTT/TLS", "IA predictiva", "Android nativo avanzado"],
+  aprendiendo:   ["MQTT/TLS", "IA predictiva", "Asistentes de voz offline"],
   filosofia:     "Del circuito a la pantalla, sin capas sueltas 🚀"
 };
 ```
@@ -57,6 +57,7 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 **Backend & Datos**
 
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
@@ -65,6 +66,7 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 
 <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
 <img src="https://img.shields.io/badge/Arduino_C++-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
 <img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=white"/>
 <img src="https://img.shields.io/badge/FreeRTOS-0d1117?style=for-the-badge&logo=freertos&logoColor=white"/>
 
@@ -85,8 +87,8 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
   <tr>
     <td width="50%" valign="top">
       <h3>💧 NexAquA</h3>
-      <p><strong>Sistema IoT de Monitoreo Hídrico — InnovaTecNM Folio 66691-17</strong></p>
-      <p>Ecosistema completo para MiPyMEs agroindustriales: firmware ESP32 con <strong>Defensa Activa</strong> (cierre de válvulas en &lt;250ms), dashboard web SaaS con predicción IA, API REST en producción y app Android nativa. +55,000 líneas de código en 4 repositorios.</p>
+      <p><strong>Sistema IoT de Monitoreo Hídrico — InnovaTecNM, Etapa Regional</strong></p>
+      <p>Ecosistema completo para MiPyMEs agroindustriales: firmware ESP32 con <strong>Defensa Activa</strong> (cierre de válvulas en &lt;250ms), HMI táctil sobre Raspberry Pi, asistente de voz con IA (<strong>ARIA</strong>), dashboard web SaaS con predicción, API REST en producción y app Android nativa. +130,000 líneas de código en 6 repositorios.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/ESP32-20232A?style=flat-square&logo=espressif&logoColor=E7352C"/>

@@ -48,38 +48,51 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,android,java&theme=dark"/>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 
 **Backend & Datos**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,postgres,supabase,firebase&theme=dark"/>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=DD2C00"/>
+<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 
 **IoT & Embebido**
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi&theme=dark"/>
-
-<img src="https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=E7352C"/>
-<img src="https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=mqtt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mosquitto-0d1117?style=flat-square&logo=eclipsemosquitto&logoColor=3C5280"/>
-<img src="https://img.shields.io/badge/FreeRTOS-0d1117?style=flat-square&logo=freertos&logoColor=white"/>
-<img src="https://img.shields.io/badge/LVGL-0d1117?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP--NOW-0d1117?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C"/>
+<img src="https://img.shields.io/badge/Arduino_C++-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mosquitto-0d1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280"/>
+<img src="https://img.shields.io/badge/FreeRTOS-0d1117?style=for-the-badge&logo=freertos&logoColor=white"/>
+<img src="https://img.shields.io/badge/LVGL-0d1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP--NOW-0d1117?style=for-the-badge&logo=espressif&logoColor=white"/>
 
 **IA & Voz**
 
-<img src="https://img.shields.io/badge/Llama_(Groq)-0d1117?style=flat-square&logo=meta&logoColor=0467DF"/>
-<img src="https://img.shields.io/badge/Whisper_STT-0d1117?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kokoro_TTS-0d1117?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=flat-square&logo=google&logoColor=4285F4"/>
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama_(Groq)-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
+<img src="https://img.shields.io/badge/Whisper_STT-0d1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kokoro_TTS-0d1117?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 **Infraestructura & Herramientas**
 
-<img src="https://skillicons.dev/icons?i=vercel,git,github,blender,threejs&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=46E3B7"/>
-<img src="https://img.shields.io/badge/Cloudinary-0d1117?style=flat-square&logo=cloudinary&logoColor=3448C5"/>
-<img src="https://img.shields.io/badge/Jira-0d1117?style=flat-square&logo=jira&logoColor=0052CC"/>
+<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+<img src="https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5"/>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D"/>
+<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC"/>
 
 </div>
 

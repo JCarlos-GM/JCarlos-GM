@@ -173,12 +173,8 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCarlos-GM&theme=github_dark" width="94%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCarlos-GM&theme=github_dark" width="46.5%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JCarlos-GM&theme=github_dark" width="46.5%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JCarlos-GM&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="46.5%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCarlos-GM&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="46.5%"/>
 
 <br/><br/>
 

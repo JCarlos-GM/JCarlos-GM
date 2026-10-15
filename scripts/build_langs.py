@@ -37,6 +37,7 @@ def get(url, tok):
 
 def languages(tok):
     totals = Counter()
+    seen = {"públicos": 0, "privados": 0}
     page = 1
     while True:
         repos = get(f"https://api.github.com/user/repos?affiliation=owner&per_page=100&page={page}", tok)
@@ -44,8 +45,10 @@ def languages(tok):
             break
         for repo in repos:
             if not repo["fork"]:
+                seen["privados" if repo["private"] else "públicos"] += 1
                 totals.update(get(repo["languages_url"], tok))
         page += 1
+    print(f"Repos analizados: {seen['públicos']} públicos, {seen['privados']} privados")
     return totals
 
 

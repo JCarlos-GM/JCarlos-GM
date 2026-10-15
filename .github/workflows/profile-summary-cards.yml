@@ -1,0 +1,26 @@
+name: Generar tarjetas de perfil
+
+# Solo schedule y manual — NO en push: la action commitea los SVGs a main
+# con el PAT, y un trigger de push aquí se re-dispararía a sí mismo en bucle.
+on:
+  schedule:
+    - cron: "0 7 * * *"   # diario, 7:00 UTC (1:00 am centro de México)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  profile-summary-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # PAT con scope repo: permite contar commits y lenguajes de repos PRIVADOS
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -6

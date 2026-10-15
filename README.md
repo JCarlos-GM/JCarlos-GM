@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,DC143C,8B0000&height=180&section=header&text=Juan%20Carlos%20Govea%20Maga%C3%B1a&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Software%20Architect&descAlignY=54&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%E2%80%94+IoT+H%C3%ADdrico;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%E2%80%94+IoT+H%C3%ADdrico;Polen+%E2%80%94+Ecommerce+de+sneakers+en+Guatemala;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue" alt="Typing SVG"/>
 
 <br/>
 
@@ -11,6 +11,9 @@
 </a>
 <a href="https://nexaqua.com.mx">
   <img src="https://img.shields.io/badge/nexaqua.com.mx-000?style=flat-square&logoColor=white"/>
+</a>
+<a href="https://polenshoes.com">
+  <img src="https://img.shields.io/badge/polenshoes.com-000?style=flat-square&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/InnovaTecNM-Etapa_Regional-58A6FF?style=flat-square"/>
 
@@ -26,13 +29,22 @@ const juanCarlos = {
   estudios:      "Ing. Sistemas Computacionales — TecNM La Piedad, Mich.",
   ubicacion:     "México",
   enfoque:       ["Firmware IoT", "Backend robusto", "Mobile nativo", "Infra en producción"],
-  proyectoActual: {
-    nombre: "NexAquA",
-    descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM (etapa regional)",
-    url: "nexaqua.com.mx",
-    estado: "En producción",
-    lineas: "+130,000 líneas de código en 6 repositorios",
-  },
+  proyectosActuales: [
+    {
+      nombre: "NexAquA",
+      descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM (etapa regional)",
+      url: "nexaqua.com.mx",
+      estado: "En producción",
+      lineas: "+130,000 líneas de código en 6 repositorios",
+    },
+    {
+      nombre: "Polen",
+      descripcion: "Ecommerce de sneakers para Guatemala — tienda + panel admin",
+      url: "polenshoes.com",
+      estado: "En producción",
+      stack: "Next.js 15 · Prisma · Turborepo",
+    },
+  ],
   aprendiendo:   ["MQTT/TLS", "IA predictiva", "Asistentes de voz offline"],
   filosofia:     "Del circuito a la pantalla, sin capas sueltas"
 };
@@ -49,6 +61,7 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 **Frontend & Mobile**
 
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
@@ -61,6 +74,9 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neon-0d1117?style=for-the-badge&logo=postgresql&logoColor=00E599"/>
+<img src="https://img.shields.io/badge/Zod-0d1117?style=for-the-badge&logo=zod&logoColor=3E67B1"/>
 <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=DD2C00"/>
 <img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
@@ -72,21 +88,30 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
 <img src="https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mosquitto-0d1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=3C5280"/>
+<img src="https://img.shields.io/badge/HiveMQ-0d1117?style=for-the-badge&logoColor=FFC000"/>
 <img src="https://img.shields.io/badge/FreeRTOS-0d1117?style=for-the-badge&logo=freertos&logoColor=white"/>
 <img src="https://img.shields.io/badge/LVGL-0d1117?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP--NOW-0d1117?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/KiCad-0d1117?style=for-the-badge&logo=kicad&logoColor=314CB0"/>
 
 **IA & Voz**
 
+<img src="https://img.shields.io/badge/DeepSeek-0d1117?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Llama_(Groq)-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
 <img src="https://img.shields.io/badge/Whisper_STT-0d1117?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kokoro_TTS-0d1117?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediaPipe-0d1117?style=for-the-badge&logo=google&logoColor=4285F4"/>
 <img src="https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElevenLabs-0d1117?style=for-the-badge&logo=elevenlabs&logoColor=white"/>
 
 **Infraestructura & Herramientas**
 
 <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Turborepo-0d1117?style=for-the-badge&logo=turborepo&logoColor=EF4444"/>
+<img src="https://img.shields.io/badge/pnpm-0d1117?style=for-the-badge&logo=pnpm&logoColor=F69220"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&logo=vitest&logoColor=6E9F18"/>
+<img src="https://img.shields.io/badge/Resend-0d1117?style=for-the-badge&logo=resend&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7"/>
 <img src="https://img.shields.io/badge/Cloudinary-0d1117?style=for-the-badge&logo=cloudinary&logoColor=3448C5"/>
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -100,13 +125,13 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 
 ## Ecosistema NexAquA
 
-Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM, etapa regional. Seis repositorios que cubren todo el flujo: del sensor físico a la decisión de negocio.
+Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM, etapa regional. Seis repositorios que cubren todo el flujo: del sensor físico a la decisión de negocio, más PCB propia diseñada en KiCad y carcasa industrial modelada en Blender.
 
 | Componente | Descripción | Stack |
 |------------|-------------|-------|
 | **Firmware ESP32** | Nodos Maestro/Esclavo con pantalla TFT, Defensa Activa (cierre de válvula en <250 ms), ESP-NOW y MQTT/TLS | C++ · LVGL · FreeRTOS |
 | **HMI Raspberry Pi** | Terminal táctil de operador (800×480): 14 pantallas, control por gestos y voz, cumplimiento NOM-001 | React 19 · TypeScript · MediaPipe |
-| **API REST** | Backend en producción: nodos, eventos, reportes PDF, notificaciones push y chatbot con tool-calling | Node.js · Express · Supabase |
+| **API REST** | Backend en producción: nodos, eventos, reportes PDF, notificaciones (push, correo, Telegram, WhatsApp) y chatbot con tool-calling | Node.js · Express · Supabase · DeepSeek |
 | **Dashboard Web** | SaaS de gerencia: widgets arrastrables, mapas, análisis ROI, exportación PDF/Excel | React · shadcn/ui · Recharts |
 | **App Android** | Operación en campo: alertas, calibración de sensores, aprovisionamiento por QR | Java · Retrofit · Firebase |
 | **ARIA** | Asistente de voz con IA y contexto empresarial — STT/TTS offline en escritorio | Python · Whisper · Kokoro |
@@ -133,6 +158,23 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
       <a href="https://nexaqua.com.mx"><strong>nexaqua.com.mx →</strong></a>
     </td>
     <td width="50%" valign="top">
+      <h3>Polen</h3>
+      <p><strong>Ecommerce de Sneakers para Guatemala</strong></p>
+      <p>Tienda en línea y panel de administración para un cliente: catálogo con tallas US, carrito, checkout por depósito/transferencia con comprobante, pedidos, envíos, devoluciones y <strong>facturación electrónica FEL (SAT)</strong>. Monorepo con contratos Zod compartidos y CI completo en cada push.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-20232A?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6"/>
+        <img src="https://img.shields.io/badge/Prisma-20232A?style=flat-square&logo=prisma&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+        <img src="https://img.shields.io/badge/Turborepo-20232A?style=flat-square&logo=turborepo&logoColor=EF4444"/>
+      </p>
+      <img src="https://img.shields.io/badge/Estado-En_producción-1a7f37?style=flat-square"/>
+      &nbsp;&nbsp;
+      <a href="https://polenshoes.com"><strong>polenshoes.com →</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Ressly</h3>
       <p><strong>Sistema Integral de Gestión Residencial</strong></p>
       <p>Plataforma completa para condominios y fraccionamientos. Dashboard administrativo, API con autenticación por roles y apps móviles nativas para control de accesos, pagos y comunicación interna.</p>
@@ -144,8 +186,6 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
       </p>
       <a href="https://ressly.com.mx"><strong>ressly.com.mx →</strong></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>PseudoHub</h3>
       <p><strong>Generación y Validación de Números Pseudoaleatorios</strong></p>
@@ -156,6 +196,8 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
       </p>
       <a href="https://pseudo-hub.vercel.app/"><strong>pseudo-hub.vercel.app →</strong></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>FluxSolver</h3>
       <p><strong>Motor de Resolución de Sistemas Lineales</strong></p>
@@ -193,6 +235,9 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
 
 <a href="https://nexaqua.com.mx" target="_blank">
   <img src="https://img.shields.io/badge/NexAquA-000000?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://polenshoes.com" target="_blank">
+  <img src="https://img.shields.io/badge/Polen-000000?style=for-the-badge&logoColor=white"/>
 </a>
 <a href="https://ressly.com.mx" target="_blank">
   <img src="https://img.shields.io/badge/Ressly-000000?style=for-the-badge&logoColor=white"/>

@@ -24,14 +24,14 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales. Si un nodo dete
 
 <img src="./assets/nexaqua-flow.svg" width="100%" alt="Flujo de datos de NexAquA: sensores, nodos ESP32, broker MQTT, API REST, alertas, HMI Raspberry Pi, ARIA, Dashboard y App Android"/>
 
-| | Repositorio | Qué hace | Stack |
-|:-:|:--|:--|:--|
-| <img src="https://cdn.simpleicons.org/espressif/8c8c8c" width="18"/> | [Firmware ESP32](https://github.com/JCarlos-GM/NexAquA-ESP32-Firmware) | Nodos maestro/esclavo con pantalla TFT, ESP-NOW, MQTT/TLS y Defensa Activa | C++ · FreeRTOS · LVGL |
-| <img src="https://cdn.simpleicons.org/raspberrypi/8c8c8c" width="18"/> | [HMI Raspberry Pi](https://github.com/JCarlos-GM/NexAquA-RPi) | Terminal táctil de operador con control por gestos y voz | React 19 · TypeScript · MediaPipe |
-| <img src="https://cdn.simpleicons.org/nodedotjs/8c8c8c" width="18"/> | [API REST](https://github.com/JCarlos-GM/NexAquA-API) | Nodos, eventos, reportes PDF, notificaciones y chatbot con *tool-calling* | Node · Express · Supabase |
-| <img src="https://cdn.simpleicons.org/react/8c8c8c" width="18"/> | [Dashboard](https://github.com/JCarlos-GM/NexAquA-Dashboard) | Panel de gerencia: widgets, mapas, ROI y exportación PDF/Excel | React · shadcn/ui · Recharts |
-| <img src="https://cdn.simpleicons.org/android/8c8c8c" width="18"/> | [App Android](https://github.com/JCarlos-GM/NexAquA-Android-App) | Operación en campo: alertas, calibración y aprovisionamiento por QR | Java · Retrofit · Firebase |
-| <img src="https://cdn.simpleicons.org/python/8c8c8c" width="18"/> | [ARIA](https://github.com/JCarlos-GM/NexAquA-ARIA) | Asistente de voz con el contexto de la empresa, procesamiento local | Python · faster-whisper · Ollama |
+| | Repositorio | Descripción |
+|:-:|:--|:--|
+| <img src="https://cdn.simpleicons.org/espressif/8c8c8c" width="18"/> | [Firmware ESP32](https://github.com/JCarlos-GM/NexAquA-ESP32-Firmware) | Nodos maestro/esclavo con pantalla TFT, ESP-NOW, MQTT/TLS y Defensa Activa<br/><sub>C++ · FreeRTOS · LVGL</sub> |
+| <img src="https://cdn.simpleicons.org/raspberrypi/8c8c8c" width="18"/> | [HMI Raspberry Pi](https://github.com/JCarlos-GM/NexAquA-RPi) | Terminal táctil de operador con control por gestos y voz<br/><sub>React 19 · TypeScript · MediaPipe</sub> |
+| <img src="https://cdn.simpleicons.org/nodedotjs/8c8c8c" width="18"/> | [API REST](https://github.com/JCarlos-GM/NexAquA-API) | Nodos, eventos, reportes PDF, notificaciones y chatbot con *tool-calling*<br/><sub>Node · Express · Supabase</sub> |
+| <img src="https://cdn.simpleicons.org/react/8c8c8c" width="18"/> | [Dashboard](https://github.com/JCarlos-GM/NexAquA-Dashboard) | Panel de gerencia: widgets, mapas, ROI y exportación PDF/Excel<br/><sub>React · shadcn/ui · Recharts</sub> |
+| <img src="https://cdn.simpleicons.org/android/8c8c8c" width="18"/> | [App Android](https://github.com/JCarlos-GM/NexAquA-Android-App) | Operación en campo: alertas, calibración y aprovisionamiento por QR<br/><sub>Java · Retrofit · Firebase</sub> |
+| <img src="https://cdn.simpleicons.org/python/8c8c8c" width="18"/> | [ARIA](https://github.com/JCarlos-GM/NexAquA-ARIA) | Asistente de voz con el contexto de la empresa, procesamiento local<br/><sub>Python · faster-whisper · Ollama</sub> |
 
 ## Proyectos entregados
 
@@ -42,15 +42,15 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales. Si un nodo dete
 
 ## Otros proyectos
 
-| | Proyecto | Descripción | Stack |
-|:-:|:--|:--|:--|
-| <img src="https://cdn.simpleicons.org/threedotjs/8c8c8c" width="18"/> | [3D Visualizer](https://github.com/JCarlos-GM/NexAquA-3D-Visualizer) | Gemelo digital del invernadero de NexAquA con *GPU instancing* | React Three Fiber · Blender |
-| <img src="https://cdn.simpleicons.org/mqtt/8c8c8c" width="18"/> | [nexaqua-bridge](https://github.com/JCarlos-GM/nexaqua-bridge) | Puente MQTT → Firebase Cloud Messaging para alertas push | Node · HiveMQ · FCM |
-| <img src="https://cdn.simpleicons.org/typescript/8c8c8c" width="18"/> | [FluxSolver](https://flux-solver.vercel.app) | Jacobi y Gauss-Seidel con entrada por voz, OCR y vista 3D | TypeScript · Tesseract.js |
-| <img src="https://cdn.simpleicons.org/react/8c8c8c" width="18"/> | [PseudoHub](https://pseudo-hub.vercel.app) | Generación y validación estadística de números pseudoaleatorios | React 19 · Vite |
-| <img src="https://cdn.simpleicons.org/typescript/8c8c8c" width="18"/> | [RegexID](https://regex-id.vercel.app) | Validación en tiempo real de nombre, teléfono, correo, RFC y CURP | TypeScript |
-| <img src="https://cdn.simpleicons.org/openjdk/8c8c8c" width="18"/> | [AsmBuilder](https://github.com/JCarlos-GM/AsmBuilder) | CLI que genera plantillas `.asm` para TASM/DOS | Java · Maven |
-| <img src="https://cdn.simpleicons.org/python/8c8c8c" width="18"/> | [MathRoots](https://github.com/JCarlos-GM/mathroots) | Bisección y Newton-Raphson con gráficas, voz e imagen | Python |
+| | Proyecto | Descripción |
+|:-:|:--|:--|
+| <img src="https://cdn.simpleicons.org/threedotjs/8c8c8c" width="18"/> | [3D Visualizer](https://github.com/JCarlos-GM/NexAquA-3D-Visualizer) | Gemelo digital del invernadero de NexAquA con *GPU instancing*<br/><sub>React Three Fiber · Blender</sub> |
+| <img src="https://cdn.simpleicons.org/mqtt/8c8c8c" width="18"/> | [nexaqua-bridge](https://github.com/JCarlos-GM/nexaqua-bridge) | Puente MQTT → Firebase Cloud Messaging para alertas push<br/><sub>Node · HiveMQ · FCM</sub> |
+| <img src="https://cdn.simpleicons.org/typescript/8c8c8c" width="18"/> | [FluxSolver](https://flux-solver.vercel.app) | Jacobi y Gauss-Seidel con entrada por voz, OCR y vista 3D<br/><sub>TypeScript · Tesseract.js</sub> |
+| <img src="https://cdn.simpleicons.org/react/8c8c8c" width="18"/> | [PseudoHub](https://pseudo-hub.vercel.app) | Generación y validación estadística de números pseudoaleatorios<br/><sub>React 19 · Vite</sub> |
+| <img src="https://cdn.simpleicons.org/typescript/8c8c8c" width="18"/> | [RegexID](https://regex-id.vercel.app) | Validación en tiempo real de nombre, teléfono, correo, RFC y CURP<br/><sub>TypeScript</sub> |
+| <img src="https://cdn.simpleicons.org/openjdk/8c8c8c" width="18"/> | [AsmBuilder](https://github.com/JCarlos-GM/AsmBuilder) | CLI que genera plantillas `.asm` para TASM/DOS<br/><sub>Java · Maven</sub> |
+| <img src="https://cdn.simpleicons.org/python/8c8c8c" width="18"/> | [MathRoots](https://github.com/JCarlos-GM/mathroots) | Bisección y Newton-Raphson con gráficas, voz e imagen<br/><sub>Python</sub> |
 
 ## Stack
 
@@ -59,11 +59,14 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales. Si un nodo dete
 ## Actividad
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JCarlos-GM&background=0A0A0A&border=242424&stroke=242424&ring=E3262E&fire=E3262E&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E3262E&sideLabels=8C8C8C&dates=5C5C5C&border_radius=10&hide_total_contributions=true&locale=es" height="195" alt="Racha de contribuciones"/>
-  <img src="./assets/langs.svg" height="195" alt="Lenguajes más usados, repos públicos y privados"/>
+  <img src="https://streak-stats.demolab.com?user=JCarlos-GM&background=0A0A0A&border=242424&stroke=242424&ring=E3262E&fire=E3262E&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=E3262E&sideLabels=8C8C8C&dates=5C5C5C&border_radius=10&hide_total_contributions=true&locale=es" width="49%" alt="Racha de contribuciones"/>
+  <img src="./assets/langs.svg" width="49%" alt="Lenguajes más usados, repos públicos y privados"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/JCarlos-GM/JCarlos-GM/output/github-contribution-grid-snake-red.svg" width="100%" alt="Snake de contribuciones"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JCarlos-GM/JCarlos-GM/output/github-contribution-grid-snake-red.svg"/>
+  <img src="https://raw.githubusercontent.com/JCarlos-GM/JCarlos-GM/output/github-contribution-grid-snake-red-light.svg" width="100%" alt="Snake de contribuciones"/>
+</picture>
 
 ## Contacto
 

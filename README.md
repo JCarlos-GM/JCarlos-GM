@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,DC143C,8B0000&height=180&section=header&text=Juan%20Carlos%20Govea%20Maga%C3%B1a&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20IoT%20%7C%20Software%20Architect&descAlignY=54&descSize=15" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%E2%80%94+IoT+H%C3%ADdrico;Polen+%E2%80%94+Ecommerce+de+sneakers+en+Guatemala;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&height=50&lines=Construyendo+NexAquA+%E2%80%94+IoT+H%C3%ADdrico;Polen+%E2%80%94+Ecommerce+entregado+en+Guatemala;Full+Stack+%7C+Mobile+%7C+Firmware+%7C+IA;Arquitectura+de+Software+%26+Sistemas;Del+primer+commit+al+despliegue" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 <a href="https://polenshoes.com">
   <img src="https://img.shields.io/badge/polenshoes.com-000?style=flat-square&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/InnovaTecNM-Etapa_Regional-58A6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/InnovaTecNM-Etapa_Nacional-58A6FF?style=flat-square"/>
 
 </div>
 
@@ -29,22 +29,20 @@ const juanCarlos = {
   estudios:      "Ing. Sistemas Computacionales — TecNM La Piedad, Mich.",
   ubicacion:     "México",
   enfoque:       ["Firmware IoT", "Backend robusto", "Mobile nativo", "Infra en producción"],
-  proyectosActuales: [
-    {
-      nombre: "NexAquA",
-      descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM (etapa regional)",
-      url: "nexaqua.com.mx",
-      estado: "En producción",
-      lineas: "+130,000 líneas de código en 6 repositorios",
-    },
-    {
-      nombre: "Polen",
-      descripcion: "Ecommerce de sneakers para Guatemala — tienda + panel admin",
-      url: "polenshoes.com",
-      estado: "En producción",
-      stack: "Next.js 15 · Prisma · Turborepo",
-    },
-  ],
+  proyectoActual: {
+    nombre: "NexAquA",
+    descripcion: "Sistema IoT de monitoreo hídrico — InnovaTecNM (etapa nacional)",
+    url: "nexaqua.com.mx",
+    estado: "En producción",
+    lineas: "+130,000 líneas de código en 6 repositorios",
+  },
+  ultimoEntregado: {
+    nombre: "Polen",
+    descripcion: "Ecommerce de sneakers para Guatemala — tienda + panel admin",
+    url: "polenshoes.com",
+    estado: "Finalizado y en producción",
+    stack: "Next.js 15 · Prisma · Turborepo",
+  },
   aprendiendo:   ["MQTT/TLS", "IA predictiva", "Asistentes de voz offline"],
   filosofia:     "Del circuito a la pantalla, sin capas sueltas"
 };
@@ -125,7 +123,7 @@ Construyo sistemas completos — desde el hardware y el firmware hasta el dashbo
 
 ## Ecosistema NexAquA
 
-Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM, etapa regional. Seis repositorios que cubren todo el flujo: del sensor físico a la decisión de negocio, más PCB propia diseñada en KiCad y carcasa industrial modelada en Blender.
+Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM, etapa nacional. Seis repositorios que cubren todo el flujo: del sensor físico a la decisión de negocio, más PCB propia diseñada en KiCad y carcasa industrial modelada en Blender.
 
 | Componente | Descripción | Stack |
 |------------|-------------|-------|
@@ -144,7 +142,7 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
   <tr>
     <td width="50%" valign="top">
       <h3>NexAquA</h3>
-      <p><strong>Sistema IoT de Monitoreo Hídrico — InnovaTecNM, Etapa Regional</strong></p>
+      <p><strong>Sistema IoT de Monitoreo Hídrico — InnovaTecNM, Etapa Nacional</strong></p>
       <p>Ecosistema completo para MiPyMEs agroindustriales: firmware ESP32 con <strong>Defensa Activa</strong> (cierre de válvulas en &lt;250ms), HMI táctil sobre Raspberry Pi, asistente de voz con IA (<strong>ARIA</strong>), dashboard web SaaS con predicción, API REST en producción y app Android nativa. +130,000 líneas de código en 6 repositorios.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -168,7 +166,7 @@ Sistema IoT de monitoreo hídrico para MiPyMEs agroindustriales — InnovaTecNM,
         <img src="https://img.shields.io/badge/PostgreSQL-20232A?style=flat-square&logo=postgresql&logoColor=4169E1"/>
         <img src="https://img.shields.io/badge/Turborepo-20232A?style=flat-square&logo=turborepo&logoColor=EF4444"/>
       </p>
-      <img src="https://img.shields.io/badge/Estado-En_producción-1a7f37?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Estado-Finalizado-8250df?style=flat-square"/>
       &nbsp;&nbsp;
       <a href="https://polenshoes.com"><strong>polenshoes.com →</strong></a>
     </td>

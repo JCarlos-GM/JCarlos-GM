@@ -1,0 +1,39 @@
+name: Actualizar lenguajes
+
+# Suma los lenguajes de todos los repos propios (incluidos privados) y
+# regenera assets/langs.svg. Requiere el secreto PERSONAL_TOKEN (PAT con scope repo).
+on:
+  schedule:
+    - cron: "0 8 * * 1"   # lunes, 8:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generar langs.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+        run: |
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "::warning::Falta el secreto PERSONAL_TOKEN; no se actualiza langs.svg"
+            exit 0
+          fi
+          python scripts/build_langs.py
+
+      - name: Commit si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/langs.svg
+          git diff --cached --quiet || git commit -m "Actualizar lenguajes"
+          git push

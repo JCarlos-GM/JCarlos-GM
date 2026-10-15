@@ -49,6 +49,10 @@ def languages(tok):
                 totals.update(get(repo["languages_url"], tok))
         page += 1
     print(f"Repos analizados: {seen['públicos']} públicos, {seen['privados']} privados")
+    if not seen["privados"]:
+        # Un token sin acceso a privados daría porcentajes engañosos: mejor no tocar la tarjeta.
+        print("::warning::El token no ve repos privados (¿scope repo?). No se actualiza langs.svg")
+        return None
     return totals
 
 
@@ -95,4 +99,7 @@ if __name__ == "__main__":
     except Exception:
         print("Sin token (GITHUB_TOKEN o gh). No se regenera langs.svg.")
         sys.exit(0)
-    render(languages(tok))
+    totals = languages(tok)
+    if totals is None:
+        sys.exit(0)
+    render(totals)
